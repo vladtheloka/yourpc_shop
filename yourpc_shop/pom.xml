@@ -11,7 +11,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <spring>5.1.8.RELEASE</spring>
+        <spring>5.2.20.RELEASE</spring>
     </properties>
 
     <build>
